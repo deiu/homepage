@@ -1,0 +1,8 @@
+@inproceedings{sambra2012context,
+  title={Context-aware decentralized approach for web services},
+  author={Sambra, Andrei Vlad and Laurent, Maryline},
+  booktitle={Services (SERVICES), 2012 IEEE Eighth World Congress on},
+  pages={73--79},
+  year={2012},
+  organization={IEEE}
+}

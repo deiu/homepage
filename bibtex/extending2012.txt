@@ -1,0 +1,8 @@
+@inproceedings{tramp2012extending,
+  title={Extending the WebID protocol with access delegation},
+  author={Tramp, Sebastian and Story, Henry and Sambra, Andrei and Frischmuth, Philipp and Martin, Michael and Auer, S{\"o}ren},
+  booktitle={Proceedings of the Third International Conference on Consuming Linked Data-Volume 905},
+  pages={99--111},
+  year={2012},
+  organization={CEUR-WS. org}
+}

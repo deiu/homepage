@@ -1,0 +1,8 @@
+@inproceedings{sambra2016building,
+  title={Building decentralized applications for the social Web},
+  author={Sambra, Andrei and Guy, Amy and Capadisli, Sarven and Greco, Nicola},
+  booktitle={Proceedings of the 25th International Conference Companion on World Wide Web},
+  pages={1033--1034},
+  year={2016},
+  organization={International World Wide Web Conferences Steering Committee}
+}

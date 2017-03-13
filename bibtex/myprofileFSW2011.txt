@@ -1,0 +1,6 @@
+@article{sambra2011myprofile,
+  title={MyProfile-Decentralized User Profile and Identity on the Web},
+  author={Sambra, Andrei Vlad and Laurent, Maryline},
+  journal={W3C's Federated Social Web (FSW2011)},
+  year={2011}
+}

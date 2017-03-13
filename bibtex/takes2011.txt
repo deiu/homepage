@@ -1,0 +1,8 @@
+@inproceedings{cheneau2011trustful,
+  title={A Trustful Authentication and Key Exchange Scheme (TAKES) for ad hoc networks},
+  author={Cheneau, Tony and Sambra, Andrei Vlad and Laurent, Maryline},
+  booktitle={Network and System Security (NSS), 2011 5th International Conference on},
+  pages={249--253},
+  year={2011},
+  organization={IEEE}
+}

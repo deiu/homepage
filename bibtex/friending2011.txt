@@ -1,0 +1,6 @@
+@inproceedings{sambra2011friending,
+  title={Friending On The Social Web},
+  author={Sambra, Andrei Vlad and Story, Henry and Tramp, Sebastian},
+  booktitle={W3C's Federated Social Web},
+  year={2011}
+}

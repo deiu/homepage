@@ -1,0 +1,6 @@
+@inproceedings{sambra2011myprofile,
+  title={MyProfile-Privacy Aware Decentralized Identity on the Web},
+  author={Sambra, Andrei Vlad and Laurent, Maryline},
+  booktitle={1st International Conference on Secure networking and Applications (ICSNA)},
+  year={2011}
+}

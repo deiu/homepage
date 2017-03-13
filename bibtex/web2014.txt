@@ -1,0 +1,8 @@
+@inproceedings{uchida2014web,
+  title={The Web Browser Personalization with the Client Side Triplestore},
+  author={Uchida, Hitoshi and Swick, Ralph and Sambra, Andrei},
+  booktitle={International Semantic Web Conference},
+  pages={470--485},
+  year={2014},
+  organization={Springer International Publishing}
+}

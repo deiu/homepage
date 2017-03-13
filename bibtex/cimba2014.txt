@@ -1,0 +1,8 @@
+@inproceedings{sambra2014cimba,
+  title={CIMBA: client-integrated microblogging architecture},
+  author={Sambra, Andrei and Hawke, Sandro and Berners-Lee, Timothy and Kagal, Lalana and Aboulnaga, Ashraf},
+  booktitle={Proceedings of the 2014 International Conference on Posters \& Demonstrations Track-Volume 1272},
+  pages={57--60},
+  year={2014},
+  organization={CEUR-WS. org}
+}
