@@ -1,0 +1,8 @@
+@inproceedings{sambra2017open,
+  title={Open Governance as a Service},
+  author={Sambra, Andrei and Kagal, Lalana},
+  booktitle={Proceedings of the 2017 ACM on Web Science Conference},
+  pages={413--414},
+  year={2017},
+  organization={ACM}
+}
